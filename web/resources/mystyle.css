@@ -1,0 +1,24 @@
+/* 
+    Document   : mystyle
+    Created on : Nov 29, 2011, 1:51:33 PM
+    Author     : MMayor
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+.odd{ 
+    background-color: #EEEEEE;
+}
+
+root { 
+    display: block;
+}
+#container {
+    margin:0 auto;
+    width: 300px;
+}
+
